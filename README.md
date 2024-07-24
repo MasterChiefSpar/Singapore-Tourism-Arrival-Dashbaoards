@@ -5,10 +5,10 @@ The Singapore Tourism Board (STB) would like to assess the Singapore Tourism Tre
 
 
 ## Steps followed
-Step 1: Load data into Tableau Desktop, moderate-sized dataset is a excel xlsx file.
-Step 2: Perform data cleaning & validation if required on the data source tab of Tableau Desktop. 
-Step 3: Data enrichment was done to better visualize country source of tourists arrival to Singapore
-Step 4: Creation of two visualization dashboards optimised for desktop view for diagnostic analytics purposes.
+### Step 1: Load data into Tableau Desktop, moderate-sized dataset is a excel xlsx file.
+### Step 2: Perform data cleaning & validation if required on the data source tab of Tableau Desktop. 
+### Step 3: Data enrichment was done to better visualize country source of tourists arrival to Singapore
+### Step 4: Creation of two visualization dashboards optimised for desktop view for diagnostic analytics purposes.
 
 ## Singapore-Tourism-Arrival-Dashbaoards
 ![image](https://github.com/user-attachments/assets/63b5a611-f509-4685-a93a-04547fa7c237)
